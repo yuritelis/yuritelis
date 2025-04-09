@@ -13,9 +13,10 @@
 </div>
 
 ### Sobre Mim
-- Estou no último ano do curso de Programação de Jogos Digitais na ETEC Prof. Basilides de Godoy
+- Estou no primeiro semestre do bacharelado de Jogos Digitais pela PUC-SP
+- Sou técnico em Programação de Jogos Digitais pela ETEC Prof. Basilides de Godoy
 - Me interesso na área de programação
-- Faço parte da equipe da <a href="https://github.com/YosagiGames"> Yosagi Games </a>
+- Fiz parte da equipe da <a href="https://github.com/YosagiGames"> Yosagi Games </a>
 - Tenho inglês intermediário
 - Gosto de jogar e criar histórias 
 
