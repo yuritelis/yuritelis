@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+cod&pause=1000&color=CB27F7&center=true&width=435&lines=Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
-
 <h2 align="center"> Olá! Me chamo Yuri, sou um programador de jogos digitais. </h1>
 
 <div align="center">
@@ -7,13 +5,13 @@
 </div> <br>
 
 <div align="center"> 
-  <a href="https://www.instagram.com/mahtelis/ target="_blanck"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mah.telisgarcia@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck"></a>
+  <a href="https://www.instagram.com/notmetelis/ target="_blanck"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="yuritelisgarcia@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck"></a>
   <a href="https://www.linkedin.com/in/mariana-telis-garcia-115668261/" target="_blanck"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
 </div>
 
 ### Sobre Mim
-- Estou no primeiro semestre do bacharelado de Jogos Digitais pela PUC-SP
+- Estou no segundo semestre do bacharelado de Jogos Digitais pela PUC-SP
 - Sou técnico em Programação de Jogos Digitais pela ETEC Prof. Basilides de Godoy
 - Me interesso na área de programação
 - Fiz parte da equipe da <a href="https://github.com/YosagiGames"> Yosagi Games </a>
