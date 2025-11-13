@@ -11,12 +11,24 @@
 </div>
 
 ### Sobre Mim
-- Estou no segundo semestre do bacharelado de Jogos Digitais pela PUC-SP
-- Sou técnico em Programação de Jogos Digitais pela ETEC Prof. Basilides de Godoy
-- Me interesso na área de programação
-- Fiz parte da equipe da <a href="https://github.com/YosagiGames"> Yosagi Games </a>
-- Tenho inglês intermediário
-- Gosto de jogar e criar histórias 
+#### Formações
+- Estou no segundo semestre do bacharelado de Jogos Digitais pela PUC-SP;
+- Sou técnico em Programação de Jogos Digitais pela ETEC Prof. Basilides de Godoy;
+
+#### Experiências e Habilidades
+- Fiz parte da equipe da <a href="https://github.com/YosagiGames"> Yosagi Games</a>;
+- Me interesso na área de programação;
+    > C# - intermediário;
+    > C++ - básico;
+    > Dart - básico;
+    > HTML / CSS / JavaScript - básico;
+    > MySQL - básico;
+- Tenho inglês intermediário;
+- Tenho espanhol básico;
+- Sou intermediário no uso do pacote Office;
+- Sou intermediário em Unity;
+- Gosto de jogar e criar histórias;
+- Gosto de aprender coisas novas (especialmente linguagens de programação). <br>
 
 ### GitHub Stats
 <div align="center" style="display: flex; justify-content: center;">
@@ -37,4 +49,3 @@
   <img align="center" alt="Yuri-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt= "Yuri-Mysql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div><br>
-
